@@ -1,0 +1,12 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "task manager project",
+  "main": "task_manager.js",
+  "scripts": {
+    "start":"node task_manager.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Shankar",
+  "license": "ISC"
+}
